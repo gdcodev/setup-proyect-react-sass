@@ -1,0 +1,6 @@
+@use '../styles/base/variables';
+
+.btn {
+    font-size: 30px;
+    color: variables.$btn-color;
+}
